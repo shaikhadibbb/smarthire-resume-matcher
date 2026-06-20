@@ -114,7 +114,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 st.markdown('<h1 style="font-weight: 600; color: #1e3a8a;">SmartHire Portal</h1>', unsafe_allow_html=True)
-st.markdown('<p style="color: #666; font-size: 0.95rem;">AI-Powered Resume-to-Job Matching & Career Guidance Engine (Classical ML Edition)</p>', unsafe_allow_html=True)
+st.markdown('<p style="color: #666; font-size: 0.95rem;">Resume-to-Job Matching & Career Guidance Engine (Classical ML Edition)</p>', unsafe_allow_html=True)
 st.markdown("---")
 
 def check_models_ready() -> bool:
