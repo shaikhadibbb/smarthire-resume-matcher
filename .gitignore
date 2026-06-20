@@ -1,0 +1,14 @@
+# Ignore data and models
+/data/
+models/*.pkl
+
+# Python env
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# IDEs and OS files
+.DS_Store
+.idea/
+.vscode/
