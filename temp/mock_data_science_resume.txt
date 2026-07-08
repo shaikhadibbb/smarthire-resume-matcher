@@ -1,0 +1,28 @@
+Data Scientist Graduate
+Email: contact@example.com
+Location: New York
+
+SUMMARY
+Enthusiastic and detail-oriented entry-level data scientist and fresh graduate seeking a full-time opportunity. Highly skilled in Python, SQL, and Machine Learning with hands-on academic project experience.
+
+EDUCATION
+Bachelor of Science in Computer Science | GPA: 3.8/4.0
+Focus: Data Science, Statistical Modeling, and Algorithms
+
+TECHNICAL SKILLS
+- Languages: Python, R, SQL, C++
+- Data Analysis: Pandas, NumPy, Scipy, Matplotlib, Seaborn
+- Machine Learning: Scikit-Learn, XGBoost, Regression, Classification, Clustering, K-Means
+- Database Systems: MySQL, PostgreSQL
+- Tools: Git, Jupyter Notebook, VS Code
+
+PROJECTS
+- Customer Segmentation: Implemented K-Means clustering algorithm to segment customers based on purchase behavior, visualizing findings.
+- Housing Price Prediction: Built linear regression and random forest models in scikit-learn to forecast home valuations.
+- NLP Text Classification: Developed a TF-IDF classifier to categorize product reviews, analyzing accuracy and confusion matrix.
+
+EXPERIENCE
+Data Science Intern | Summer 2025
+- Assisted in cleaning datasets and preparing feature matrices.
+- Used pandas to preprocess text and extract insights.
+- Participated in team code reviews and documentation.
